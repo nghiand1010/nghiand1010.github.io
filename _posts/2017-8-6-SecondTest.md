@@ -1,7 +1,6 @@
 ---
 layout: post
-title: First blog!
+title: Second blog!
 ---
 
 Hello world, my secon blog on gitbub
-![_config.yml]({{ site.baseurl }}/images/config.png)

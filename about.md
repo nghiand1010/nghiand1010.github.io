@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
+Nghia Nguyen Dinh
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Thai Hoc - Chi Linh -Hai Duong -Vietnam
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nghiand1010@gmail.com](mailto:nghiand1010@gmail.com)

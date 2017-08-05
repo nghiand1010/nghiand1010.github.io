@@ -1,9 +1,9 @@
 # Basic settings
 description:  This is personal blog.
 baseurl: "/"
-url: "https://lavkumarv.github.io" 
-twitter_username: LAV_K_V
-github_username:  lavkumarv
+url: "https://nghiand1010.github.io" 
+twitter_username: 
+github_username:  nghiand1010
 include: ['_pages']
 
 # Build settings
